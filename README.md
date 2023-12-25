@@ -87,3 +87,9 @@ Welcome to a snapshot of what my insatiably curious brain has produced over the 
 - [_Avengers: Endgame_](https://www.youtube.com/watch?v=cSeVcYPePZk&list=PLZojCMmMkWJ0oU4VBlaRFws3O_WhdTLst&index=135)
 - [Animal antagonists](https://www.youtube.com/watch?v=LWJkPHx37mg&list=PLZojCMmMkWJ0oU4VBlaRFws3O_WhdTLst&index=142)
 - [The role of faith & religion in film](https://www.youtube.com/watch?v=RCVXihZRnFU&list=PLZojCMmMkWJ0oU4VBlaRFws3O_WhdTLst&index=51)
+
+-----
+# Awards
+- Edward R. Murrow Award for Excellence in Social Media (2017, 2019)
+- Edward R. Murrow Awards for Excellence in News Web Design (Regional Award 2004, 2005, 2006, 2007 / National Award 2006)
+- Microsoft MVP for ASP.NET (2002, 2003)
