@@ -1,4 +1,4 @@
-# [Jason](https://www.youtube.com/results?search_query=jason+salas+kuam) [ Salas](https://www.google.com/search?q=site:youtube.com+%22jason+salas%22) :: portfolio
+# {[ Jason](https://www.youtube.com/results?search_query=jason+salas+kuam) [ Salas](https://www.google.com/search?q=site:youtube.com+%22jason+salas%22) } :: &lt;PORTFOLIO/&gt;
 ### [Email](mailto:jasonsalas671@gmail.com) :: [LinkedIn](https://www.linkedin.com/in/jasonsalas671/) :: [TikTok](https://www.tiktok.com/@jasonsalas671) :: [Snapchat](https://www.snapchat.com/add/jasonsalas671) :: [GitHub](https://github.com/jasonsalas)
 
 Welcome to a snapshot of what my insatiably curious brain has produced over the years - through [words](#writing), [images](#filmmaking), [code](#software-development), [thoughts](#podcasting) and [tinkering](#independent-research--development). My style leverages clarity, empathy, intellect, emotion, humor and high reusability to ellicit specific responses: **making people think**, **making people laugh** and **pissing people off**.
@@ -34,7 +34,7 @@ Welcome to a snapshot of what my insatiably curious brain has produced over the 
 **BOOKS/PUBLICATIONS**
 
 - [_Designing and Developing for Google Glass: Thinking Differently for a New Platform_](https://www.amazon.com/Designing-Developing-Google-Glass-Differently-ebook/dp/B00QUBHNJE) - authored book for O'Reilly Media on wearable computing application design &amp; UX flow
-- [_MFL Rocks!_](http://jasonsalas.com/mflrocks/mflrocks2011.pdf) - my self-published e-book detailing a season-long chronology of the trials, tribulations and triumphs of a semi-pro football league)
+- [_MFL Rocks!_](http://jasonsalas.com/mflrocks/mflrocks2011.pdf) - self-published e-book detailing a season-long chronology of the trials, tribulations and triumphs of a semi-pro football league
 - [_The Golden Path: Building Stuff that Doesn't Suck_](https://twitter.com/jasonsalas/status/1469813219594096642) - e-book on modern digital product management strategy covering collaborative ideation, validation &amp; evaluation
 - _Learning Microsoft Hailstorm_ - technical editor
 - .NET Magazine - freelance reporter
