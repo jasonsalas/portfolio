@@ -19,7 +19,7 @@ Welcome to a snapshot of what my insatiably curious brain has produced over the 
 - [_The Pacific Games - A Look Back_](https://www.youtube.com/watch?v=yPlvkcmIPK4&list=PLZojCMmMkWJ0Dw063hNTzzEYx5HtgdrQn&index=1) - solo-produced film capturing Team Guam's experience in regional mini-Olympics
 - _Paradise Stripped_ - chronicling the psychological, societal, financial &amp; behavioral experience of Guam's oft-misunderstood exotic dancer subculture
 
-**VIDEO EDITING**
+**VIDEOGRAPHY/EDITING**
 - [Marines run 248 miles around Guam to celebrate Corps' birthday](https://www.youtube.com/watch?v=ScEeyxbEuhU&list=PLTpfHeMH-xLTzsET_pr6ynbZSJ4Sih08X&index=35)
 - [_Sports Ambassadors_](https://www.youtube.com/playlist?list=PLZojCMmMkWJ0wTNbMV4uT_0vRB8G6dsV6)
 - [High school girls softball championship game supercut](https://www.youtube.com/watch?v=qCk894KwhTI&list=PLTpfHeMH-xLTzsET_pr6ynbZSJ4Sih08X&index=19)
@@ -41,7 +41,6 @@ Welcome to a snapshot of what my insatiably curious brain has produced over the 
 
 
 **TECHNOLOGY**
-
 - [Simpsons GAN](https://medium.com/@jasonsalas_89883/recreating-the-simpsons-with-a-dcgan-2122f788faea) - deep neural network creating original characters from _The Simpsons_ universe
 - [Can AI predict a movie’s MPAA rating with just its summary?](https://medium.com/@jasonsalas_89883/can-ai-predict-a-movies-mpaa-rating-with-just-its-summary-3a6b3d6c5eab "Can AI predict a movie’s MPAA rating with just its summary?") - AI model predicting a film’s rating based solely on its marketing synopsis  
 - [Manage Detail Pages Across Multiple Platforms with Centralized Data Caching](https://learn.microsoft.com/en-us/previous-versions/dotnet/articles/aa479301(v=msdn.10)?redirectedfrom=MSDN "Manage Detail Pages Across Multiple Platforms with Centralized Data Caching") - guest post for Microsoft Developer Network (MSDN) on best-practices C# data access patterns
