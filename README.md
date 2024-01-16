@@ -78,7 +78,6 @@ Welcome to a snapshot of what my insatiably curious brain has produced over the 
 - Machine learning image/video captioning
 - Web browser-based video editing
 - Bayesian inference for sports ranking
-- Teledildonics
 
 -----
 # Podcasting
